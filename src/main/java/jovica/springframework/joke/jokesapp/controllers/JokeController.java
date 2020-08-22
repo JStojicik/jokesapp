@@ -1,6 +1,6 @@
-package jovica.springframework.joke.jokeapp.controllers;
+package jovica.springframework.joke.jokesapp.controllers;
 
-import jovica.springframework.joke.jokeapp.services.JokeService;
+import jovica.springframework.joke.jokesapp.services.JokeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

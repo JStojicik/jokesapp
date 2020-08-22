@@ -1,4 +1,4 @@
-package jovica.springframework.joke.jokeapp.services;
+package jovica.springframework.joke.jokesapp.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
